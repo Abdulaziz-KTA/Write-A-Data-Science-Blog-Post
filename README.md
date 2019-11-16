@@ -16,7 +16,8 @@ Listed below all packages and libraries used in this project:
 
 
 ### File description:
-<ul>
-Jupyter notebook with complete analysis code
-HTML copy of Jupyter notebook
-</ul>
+<ol>
+<li> Jupyter notebook with complete analysis code
+<li> Original file Video Game Sales (vgsales_F)
+<li> Modified file  Video Game Sales (vgsales-12-4-2019)
+</ol>
