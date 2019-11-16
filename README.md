@@ -3,6 +3,12 @@
 ## Video Game Sales 4/12/2019 - Data Analysis  (1977-2020)
 Analysis of data from the beginning of 1977 to 2020 and the Genre of game, publisher, the company and the best year of publication and sales
 
+
+## Project Motivation:
+The motivation behind the project is to study and understand the way companies develop genre the games and what is the most admired games among the players and what year was the most developed games and selling
+1 - What is the best-selling version of the game?
+2 - What types of games developed by the best-selling company?
+3 - What year was the best-selling and most developed games?
 ### Libraries:
 I am ues <a href="anaconda.com">Anaconda</a> and jupyter noteboke inside Anaconda Navigator all Libraries you can find in Environments Anaconda Navigator
 
