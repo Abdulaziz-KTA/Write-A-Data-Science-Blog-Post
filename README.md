@@ -6,11 +6,17 @@ Analysis of data from the beginning of 1977 to 2020 and the Genre of game, publi
 ### Libraries:
 Listed below all packages and libraries used in this project:
 <ol>
-<li>Python Version (3.6.8)
+<li>Python Version (3.7.2)
 <li>Pandas (Data Processing, and manipulatoin)
 <li>NumPy (Data Processing, and manipulatoin)
 <li>Sklearn (Machine Learning model)
 <li>Plotly (Interactive Plots)
-<li>Folium (Map Visualization)
-<li>Dython (Categorical Corrilation)
+<li>matplotlib (Visualization)
 </ol>
+
+
+### File description:
+<ul>
+Jupyter notebook with complete analysis code
+HTML copy of Jupyter notebook
+</ul>
