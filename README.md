@@ -4,6 +4,8 @@
 Analysis of data from the beginning of 1977 to 2020 and the Genre of game, publisher, the company and the best year of publication and sales
 
 ### Libraries:
+I am ues <a href="anaconda.com">Anaconda</a> and jupyter noteboke inside Anaconda Navigator all Libraries you can find in Environments Anaconda Navigator
+
 Listed below all packages and libraries used in this project:
 <ol>
 <li>Python Version (3.7.2)
