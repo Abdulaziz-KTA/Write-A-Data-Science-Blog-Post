@@ -1,7 +1,7 @@
 # Write a Data Science Blog Post
 
 ## Video Game Sales 4/12/2019 - Data Analysis  (1977-2020)
-
+Analysis of data from the beginning of 1977 to 2020 and the Genre of game, publisher, the company and the best year of publication and sales
 
 ### Libraries:
 Listed below all packages and libraries used in this project:
