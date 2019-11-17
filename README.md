@@ -1,7 +1,7 @@
 # Write a Data Science Blog Post
 
 ## Video Game Sales 4/12/2019 - Data Analysis  (1977-2020)
-Analysis of data from the beginning of 1977 to 2020 and the Genre of game, publisher, the company and the best year of publication and sales
+Analysis of data from the beginning of 1977 to 2020 and the Genre of game, publisher, the company and the best year of publication and sales<br>
 here my Medium post <a href="https://medium.com/@AbdulazizKTA/write-a-data-science-blog-post-f8c5e1ece761">Write a Data Science Blog Post</a>
 
 ## Project Motivation:
